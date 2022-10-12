@@ -1,2 +1,9 @@
 # my-first-repo
- some prctice of files
+
+ some git prctice
+
+ ## skills
+
+ - list and dict
+ - loops
+ - re
